@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sumatoria Recursion/1.0.0": {
+        "runtime": {
+          "Sumatoria Recursion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sumatoria Recursion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
